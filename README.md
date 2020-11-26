@@ -3,8 +3,8 @@ If you want to better understand React Class component and React functional comp
 this sample is for you.
 The hook is used for grabing the typed keyboard keys.
 
+![alt text](https://github.com/MichelLaplane/react-class-function-hooks/blob/master/React-class-function-hooks.png)
 
-https://github.com/MichelLaplane/react-class-function-hooks/blob/master/React-class-function-hooks.png
 
 ### Summary
 if you want
