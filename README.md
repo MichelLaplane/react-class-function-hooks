@@ -7,10 +7,9 @@ The hook is used for grabing the typed keyboard keys.
 
 
 ### Summary
-if you want
-Short summary on functionality and used technologies.
-
-[picture of the solution in action, if possible]
+Usage of React class component, functional component and hooks.
+React SPFX Framework 1.11
+TypeScript
 
 ## Used SharePoint Framework Version
 
@@ -25,7 +24,7 @@ Short summary on functionality and used technologies.
 
 ## Prerequisites
 
-> Any special pre-requisites?
+No pre-requisite
 
 ## Solution
 
