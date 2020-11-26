@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "react-class-function-hooks-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/reactClassFunctionHooks/ReactClassFunctionHooksWebPart.js",
+          "manifest": "./src/webparts/reactClassFunctionHooks/ReactClassFunctionHooksWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ReactClassFunctionHooksWebPartStrings": "lib/webparts/reactClassFunctionHooks/loc/{locale}.js"
+  }
+}
