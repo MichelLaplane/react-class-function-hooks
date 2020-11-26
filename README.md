@@ -3,7 +3,7 @@ If you want to better understand React Class component and React functional comp
 this sample is for you.
 The hook is used for grabing the typed keyboard keys.
 
-## Summary
+### Summary
 if you want
 Short summary on functionality and used technologies.
 
