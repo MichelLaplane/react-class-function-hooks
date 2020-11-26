@@ -1,4 +1,4 @@
-# react-class-function-hooks
+## react-class-function-hooks
 If you want to better understand React Class component and React functional component including the usage of hooks in a function
 this sample is for you.
 The hook is used for grabing the typed keyboard keys.
