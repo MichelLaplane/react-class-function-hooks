@@ -7,7 +7,8 @@ The hook is used for grabing the typed keyboard keys.
 
 
 ### Summary
-Usage of React class component, functional component and hooks.
+Usage of React class component, functional component and hooks
+
 React SPFX Framework 1.11
 TypeScript
 
@@ -30,7 +31,7 @@ No pre-requisite
 
 Solution|Author(s)
 --------|---------
-folder name | Author details (name, company, twitter alias with link)
+react-class-function-hooks | Michel Laplane (MVP Microsoft Visio) - ShareVisual @MichelLaplane
 
 ## Version history
 
@@ -57,15 +58,13 @@ Version|Date|Comments
 
 ## Features
 
-Description of the extension that expands upon high-level summary above.
+This SPFx WebPart illustrate the use of class component and function component.
 
 This extension illustrates the following concepts:
 
-- topic 1
-- topic 2
-- topic 3
-
-> Notice that better pictures and documentation will increase the sample usage and the value you are providing for others. Thanks for your submissions advance.
+- Class component
+- Function component
+- Hooks
 
 > Share your web part with others through Microsoft 365 Patterns and Practices program to get visibility and exposure. More details on the community, open-source projects and other activities from http://aka.ms/m365pnp.
 
@@ -76,3 +75,4 @@ This extension illustrates the following concepts:
 - [Use Microsoft Graph in your solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-microsoft-graph-apis)
 - [Publish SharePoint Framework applications to the Marketplace](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/publish-to-marketplace-overview)
 - [Microsoft 365 Patterns and Practices](https://aka.ms/m365pnp) - Guidance, tooling, samples and open-source controls for your Microsoft 365 development
+- [React](https://reactjs.org)
